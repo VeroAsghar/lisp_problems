@@ -1,0 +1,4 @@
+(executable
+ (public_name lisp_problems)
+ (name main)
+ (libraries lisp_problems))
